@@ -4,7 +4,7 @@ git config --global user.name "ElenaAyllon"
 git config --global user.email eleayme2002@gmail.com
 git commit -m "Commit inicial"
 git clone git@github.com:Elena15022002/masteruah.git
-git remote add origin https://github.com/Elena15022002/masteruah.git
+git remote add origin https://github.com/Elena15022002/Elena15022002.git
 git push origin master
 echo "Fichero1" >> fichero1.txt
 git tag  v0.1
